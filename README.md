@@ -1,4 +1,4 @@
 # JS-Problem-Solving
-Here i will try to upload soulution of basic JS problem..
+Here i will try to upload solution of basic JS problem..
 
 Let's Start..
